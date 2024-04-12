@@ -1,0 +1,17 @@
+# vscode realted
+.vscode
+.vscode-test
+
+.idea/
+cmake-build-debug/
+cmake-build-debug-coverage/
+*.o
+*.exe
+*.zip
+*.exe
+*.out
+*.DS_Stor
+
+**/build/
+
+
